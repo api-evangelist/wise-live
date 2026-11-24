@@ -94,6 +94,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://www.wise.live)
 - [Documentation](https://wise-app.gitbook.io/wise-app)
+- [API reference](https://api.wise.live/docs)
 - [Pricing](https://www.wise.live/pricing/)
 - [Support](https://www.wise.live/knowledgebase/)
 - [Blog](https://www.wise.live/blog/)
@@ -102,7 +103,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 14.3** — emerging · rubric 0.28.0 · scored 2026-11-24
+**Kin Score 16.1** — emerging · rubric 0.28.0 · scored 2026-11-24
 
 | Facet | Score |
 |---|---|
@@ -110,8 +111,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 16.7 |
-| Access clarity | 40.9 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 42.6 |
 
 **Agent readiness 3.1** — human-only
 
